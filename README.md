@@ -1,1 +1,1 @@
-# [Compartmental Models on Indian Covid-19 data]
+# Compartmental Models on Indian Covid-19 data
